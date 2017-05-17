@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
     This gem packages the extension summernote-image-attributes of Summernote editor
     for Rails' assets pipeline
   }
-  spec.homepage      = 'https://github.com/apradillap/summernote-ext-addclass-rails'
+  spec.homepage      = 'https://github.com/apradillap/summernote-image-attributes-rails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
