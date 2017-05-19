@@ -1,1 +1,1 @@
-//= require ./ummernote-image-attributes
+//= require ./summernote-image-attributes
