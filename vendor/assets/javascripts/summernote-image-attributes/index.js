@@ -1,0 +1,1 @@
+//= require ./ummernote-image-attributes
