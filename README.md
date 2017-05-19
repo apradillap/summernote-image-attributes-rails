@@ -14,7 +14,7 @@ Add the following gems to your application's `Gemfile`:
 ```ruby
 gem 'bootstrap-sass'                    # required
 gem 'summernote-rails'                  # required
-gem 'summernote-image-attributes-rails', '~> 0.8.3'
+gem 'summernote-image-attributes-rails', '~> 0.8.4'
 ```
 
 And then execute on the terminal:
